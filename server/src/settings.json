@@ -1,0 +1,5 @@
+{
+    "commissionPercentage": 5,
+    "transactionCommissionInCents": 25,
+    "minutesToClosesSoon": 120
+}
